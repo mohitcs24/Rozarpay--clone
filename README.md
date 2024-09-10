@@ -1,8 +1,8 @@
-# Rozarpay--clone
-Project Name: Rozarpay Clone
+# PayStream
+Project Name: PayStream
 
 Description:
-Rozarpay Clone is a web application designed to emulate the functionalities of a digital payment platform similar to Rozarpay. Developed using HTML, CSS, JavaScript, and React, this project showcases my proficiency in frontend web development and modern JavaScript frameworks.
+PayStream is a web application designed to emulate the functionalities of a digital payment platform similar to Rozarpay. Developed using HTML, CSS, JavaScript, and React, this project showcases my proficiency in frontend web development and modern JavaScript frameworks.
 
 Key Features Implemented:
 
